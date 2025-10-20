@@ -2,15 +2,18 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Class.java to edit this template
  */
-package Member1;
+package Model;
 
 /**
  *
- * @author chinm
+ * @author anishagaikar
  */
-public class Member1 {
+public class Member2 {
+
 
     public static void main(String[] args) {
-        System.out.println("Hello from Member 1 - Chinmay Sakhare");
+        System.out.println("Hello from Member 2 - Anisha Gaikar");
     }
 }
+    
+
